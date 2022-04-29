@@ -10,7 +10,7 @@ Q2. create a node server ✅
   - add listener on port 5100
   - respond with 'My first server in NodeJS' using response object
 
-Q3. write code to create a node server ❌
+Q3. write code to create a node server ✅
   - add listener on port 5555
   - console request headers
   - respond with content of user-agent from request headers.??
