@@ -46,3 +46,6 @@ if(req.url.split('.').pop() === 'css') {
  - follow the steps for handling css 
 
 4. handle request for javascripts(if any) in simialar fashion as above.
+
+
+<!-- How 2 du dis -->
